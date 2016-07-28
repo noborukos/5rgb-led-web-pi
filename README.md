@@ -25,5 +25,6 @@
      jscolor.js は同じ場所に置く<br>
 </p>
 <p>
-写真資料<br>
+ブラウザ画面<br>
+<img src="browser.png" width="40%" hight="40%" >
 </p>
