@@ -17,7 +17,7 @@
 <p>
 メモ<br>
   1. コンパイルオプションに -lwiringPi を追加<br>
-  2. 生成した実行ファイルはApache2の設定でCGIを動かす場所にコピー<br>
+  2. 生成した実行ファイル"5rgb_led_pwm.cgi"はApache2の設定でCGIを動かす場所にコピー<br>
   3. demo.html<br>
      led_script.js<br>
      jscolor.js は同じ場所に置く<br>
