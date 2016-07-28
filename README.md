@@ -22,3 +22,7 @@
   4. demo.html<br>
      led_script.js<br>
      jscolor.js は同じ場所に置く<br>
+</p>
+<p>
+写真資料<br>
+</p>
