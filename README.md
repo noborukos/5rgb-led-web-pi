@@ -25,6 +25,14 @@
      jscolor.js は同じ場所に置く<br>
 </p>
 <p>
+試作回路画像<br>
+<img src="board1.png" width="40%" hight="40%" ><br>
+PCA9685画像<br>
+<img src="pca9685.png" width="40%" hight="40%" ><br>
+</p>
+<p>
 ブラウザ画面<br>
-<img src="browser.png" width="40%" hight="40%" >
+<img src="browser.png" width="40%" hight="40%" ><br>
+点灯画像<br>
+<img src="board2.png" width="40%" hight="40%" ><br>
 </p>
