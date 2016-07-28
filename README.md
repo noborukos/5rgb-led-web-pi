@@ -14,5 +14,9 @@
 <p>開発環境<br>
   NetBeanes IDE（C言語、リモート開発）<br>
 </p>
-
-
+<p>
+メモ<br>
+コンパイルオプションに -lwiringPi を追加<br>
+生成した実行ファイルはApache2の設定でCGIを動かす場所にコピー<br>
+demo.html led_script.js jscolor.js は同じ場所に置く<br>
+led_script.js の cgi_path を設定する<br>
