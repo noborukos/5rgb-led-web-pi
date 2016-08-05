@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 # 5rgb-led-web-pi
 <P>ラズベリーパイ3にPCA9685を接続し5個のRGB-LEDをブラウザ経由でコントロール</p>
-<p> C言語によるCGIとJavascriptの連携を試す<p>
+<p>目的として慣れ親しんだC言語によるCGIのコーディングとJavascriptの連携を試す<p>
 <p>ハードウェア<br>
   Raspberry Pi 3<br>
   PCA9685 <a href="http://www.nxp.com/ja/products/power-management/lighting-driver-and-controller-ics/ic-led-display-control/16-channel-12-bit-pwm-fm-plus-ic-bus-led-controller:PCA9685">16-channel, 12-bit PWM Fm+ I²C-bus LED controller<a><br>
