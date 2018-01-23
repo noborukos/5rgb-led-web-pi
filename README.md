@@ -1,5 +1,5 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 # 5rgb-led-web-pi
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <P>ラズベリーパイ3にPCA9685を接続し5個のRGB-LEDをブラウザ経由でコントロール</p>
 <p>目的として慣れ親しんだC言語によるCGIのコーディングとJavascriptの連携を試す<p>
 <p>ハードウェア<br>
